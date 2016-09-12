@@ -1,0 +1,21 @@
+body{
+	
+	text-align : center;
+}
+
+table {
+    margin: 0px auto;            
+}?
+
+#table1,th ,td{
+	
+	border : 1px solid black;
+}
+#table2,th ,td{
+	
+	border : 1px solid black;
+}
+#table3,th ,td{
+	
+	border : 1px solid black;
+}
